@@ -1,3 +1,3 @@
-Hello, this is Octocat punch
+Hello, this is Octocat punch loves Money 
 I'm going to show you how I use git #aim
 Let's start with git init in Octocat.
